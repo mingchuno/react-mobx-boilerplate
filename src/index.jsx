@@ -6,14 +6,9 @@ import './index.css';
 import App from './components/App';
 import * as serviceWorker from './serviceWorker';
 
-import CounterStore from './stores/counterStore';
+import stores from "./stores";
 
-// manual init store instance
-const stores = {
-  counterStore: new CounterStore()
-};
-
-// @ts-ignore: For easier debugging
+// For easier debugging
 window._____APP_STATE_____ = stores;
 
 configure({ enforceActions: "always" });

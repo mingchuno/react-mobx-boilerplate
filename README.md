@@ -9,3 +9,8 @@ yarn install
 yarn start
 yarn test
 ```
+
+## Points to note
+
+- I have tried ts but using it with `@inject` decorators is too difficult.
+- need to get eslint work on CLI and vscode
