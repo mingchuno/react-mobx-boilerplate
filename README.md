@@ -14,3 +14,7 @@ yarn test
 
 - I have tried ts but using it with `@inject` decorators is too difficult.
 - need to get eslint work on CLI and vscode
+- TODOs:
+  - impl a more complete example with at least some API call and UI
+  - try to incop with RxJs
+  - try more mobx features
