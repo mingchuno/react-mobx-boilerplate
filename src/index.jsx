@@ -8,6 +8,7 @@ import * as serviceWorker from './serviceWorker';
 
 import CounterStore from './stores/counterStore';
 
+// manual init store instance
 const stores = {
   counterStore: new CounterStore()
 };
