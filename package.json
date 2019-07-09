@@ -5,10 +5,10 @@
   "dependencies": {
     "@babel/plugin-proposal-decorators": "^7.2.0",
     "mobx": "^5.7.0",
-    "mobx-react": "^5.4.2",
+    "mobx-react": "^6.1.1",
     "react": "^16.6.3",
     "react-dom": "^16.6.3",
-    "react-scripts": "2.1.1"
+    "react-scripts": "3.0.1"
   },
   "scripts": {
     "start": "react-app-rewired start",
@@ -27,6 +27,6 @@
   ],
   "devDependencies": {
     "customize-cra": "^0.2.7",
-    "react-app-rewired": "^1.6.2"
+    "react-app-rewired": "^2.1.3"
   }
 }
