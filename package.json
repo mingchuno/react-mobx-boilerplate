@@ -26,7 +26,7 @@
     "not op_mini all"
   ],
   "devDependencies": {
-    "customize-cra": "0.2.14",
+    "customize-cra": "0.3.0",
     "react-app-rewired": "2.1.3"
   }
 }
